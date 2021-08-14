@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace sololeran_csharp_practice
 {
@@ -10,6 +6,7 @@ namespace sololeran_csharp_practice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Pat, this prgoram it to test the IDE.");
         }
     }
 }
