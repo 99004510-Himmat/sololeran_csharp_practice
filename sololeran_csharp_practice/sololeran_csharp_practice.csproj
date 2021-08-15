@@ -44,6 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="practice_programs\Area_of_circle.cs" />
+    <Compile Include="practice_programs\Coffe_time.cs" />
+    <Compile Include="practice_programs\Dance.cs" />
+    <Compile Include="practice_programs\Drawing_app.cs" />
+    <Compile Include="practice_programs\Robot_barman.cs" />
+    <Compile Include="practice_programs\Social_network.cs" />
+    <Compile Include="practice_programs\Level_points.cs" />
+    <Compile Include="practice_programs\Multiple_of_3.cs" />
+    <Compile Include="practice_programs\Words.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

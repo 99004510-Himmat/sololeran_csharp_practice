@@ -1,4 +1,6 @@
-﻿using System;
+﻿//a program that will calculate the area of ​​a circle.
+
+using System;
 
 namespace sololeran_csharp_practice.practice_programs
 {
